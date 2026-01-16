@@ -10,4 +10,8 @@ makefile
 py
 pymacos
 gengmarr
+*.str
+*.ref
+*.tex
+*.log
 .settings
